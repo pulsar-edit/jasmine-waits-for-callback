@@ -1,3 +1,5 @@
+# This Repo is archived under Pulsar-Edit since it is not used.
+
 # Jasmine Waits-For-Callback Extension
 
 This module extends jasmine `waitsFor` blocks with a useful feature for async
